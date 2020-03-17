@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #000;
+    margin-right: 15vh;
+    padding-right: 19vh;
+    padding-left: 19vh;
+    margin-left: 20vh;
+}
+img {
+    width: 195%;
+    height: 100%;
+    z-index: -1;
+}
